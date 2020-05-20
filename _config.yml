@@ -38,13 +38,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "ap6bd@virginia.edu"
+  facebook: arijit.pande
+  github: arijit-pande
+  twitter: arijit_pande 
+  rss: false
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: arijit-pande-31031993
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -206,5 +206,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
