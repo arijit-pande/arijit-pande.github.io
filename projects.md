@@ -3,14 +3,14 @@
 <p>
 I am Arijit Pande, a Masters student at University of Virginia studying computer science. In the first two semesters, I have enrolled in the following courses - Design and Analysis of Algorithms, Cloud Computing, Data Mining, Machine Learning, Operating Systems, Computer Networks, Deep Learning for Computer Vision and Software Analysis and Artifacts</p>
 
-<h2> EDUCATION: </h2>	
-<h3>University of Virginia, Master’s in Computer Science (AUG 2019 to DEC 2020) </h3>  
+<h3> EDUCATION: </h3>	
+<h4>University of Virginia, Master’s in Computer Science (AUG 2019 to DEC 2020) </h4>  
 <ul>
 <li> Courses Taken – Algorithms, Machine Learning, Cloud Computing, Data Mining </li>
 <li> Teaching Assistant for Cloud Computing undergrad course (UVa CS 4740) </li>
 </ul>
 
-<h3>University of Pune, Bachelor’s in Engineering - Information Technology (AUG 2011 to JUL 2015) </h3>
+<h4>University of Pune, Bachelor’s in Engineering - Information Technology (AUG 2011 to JUL 2015) </h4>
 <ul>
 <li>	Aggregate percentage of 71.4 (3.6/4 GPA approximately) </li>
 <li>	Created a client-server application for inter college C/C++ quiz – this project supported 100+ concurrent users after deployment (Python, SQLite) </li>
@@ -19,10 +19,10 @@ I am Arijit Pande, a Masters student at University of Virginia studying computer
 
 <h3>SKILLS: </h3>
 <ul>
-<li>	Programming Languages: Python, Java, Bash, C++, C, SQL, Go
-<li>	Frameworks: Spring(Java), Hibernate(Java), PyQT (Python), Flask (Python), Django(Python)
-<li>	Versioning Systems: Git, Mercurial, SVN
-<li>	Miscellaneous: Docker, AWS (VM deployment, ELB, RDS, EFS), Hadoop, Kafka, Apache-Drill
+  <li>	Programming Languages: Python, Java, Bash, C++, C, SQL, Go </li>
+  <li>	Frameworks: Spring(Java), Hibernate(Java), PyQT (Python), Flask (Python), Django(Python) </li>
+  <li>	Versioning Systems: Git, Mercurial, SVN </li>
+  <li>	Miscellaneous: Docker, AWS (VM deployment, ELB, RDS, EFS), Hadoop, Kafka, Apache-Drill </li>
 </ul>
                 
 <h3>WORK EXPERIENCE:</h3>	
