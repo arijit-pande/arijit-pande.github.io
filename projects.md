@@ -41,7 +41,7 @@ I am Arijit Pande, a Masters student at University of Virginia studying computer
 <ul>
 <li>	Responsible for designing and implementing customer data migration solutions using eQube-MI. This involved moving customer data from Oracle based systems to Siemens Teamcenter (Java, Oracle) </li>
 </ul>               
-<h3>Software Engineer Intern, BMC Software, Pune, India:	               JUL 2014 to MAY 2015 </h3>
+<h4>Software Engineer Intern, BMC Software, Pune, India:	               JUL 2014 to MAY 2015 </h4>
 <ul>
 <li>	Incident Management System using NoSQL database – This project was done to assess if a NoSQL database is feasible for the traditionally RDBMS based ITSM system BMC Remedy (MongoDB, Java, Java Spring) </li>
 </ul>
