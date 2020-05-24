@@ -4,7 +4,7 @@
 I am Arijit Pande, a Masters student at University of Virginia studying computer science. In the first two semesters, I have enrolled in the following courses - Design and Analysis of Algorithms, Cloud Computing, Data Mining, Machine Learning, Operating Systems, Computer Networks, Deep Learning for Computer Vision and Software Analysis and Artifacts</p>
 
 <h1> EDUCATION: </h1>	
-</h2>University of Virginia, Master’s in Computer Science (AUG 2019 to DEC 2020) </h2>  
+<h2>University of Virginia, Master’s in Computer Science (AUG 2019 to DEC 2020) </h2>  
 <ul>
 <li> Courses Taken – Algorithms, Machine Learning, Cloud Computing, Data Mining </li>
 <li> Teaching Assistant for Cloud Computing undergrad course (UVa CS 4740) </li>
