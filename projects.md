@@ -3,20 +3,27 @@
 <p>
 I am Arijit Pande, a Masters student at University of Virginia studying computer science. In the first two semesters, I have enrolled in the following courses - Design and Analysis of Algorithms, Cloud Computing, Data Mining, Machine Learning, Operating Systems, Computer Networks, Deep Learning for Computer Vision and Software Analysis and Artifacts</p>
 
-<pre>
-EDUCATION:	
-University of Virginia, Master’s in Computer Science 	             AUG 2019 to DEC 2020          
-•	Courses Taken – Algorithms, Machine Learning, Cloud Computing, Data Mining
-•	Teaching Assistant for Cloud Computing undergrad course (UVa CS 4740)
-University of Pune, Bachelor’s in Engineering - Information Technology	               AUG 2011 to JUL 2015
-•	Aggregate percentage of 71.4 (3.6/4 GPA approximately) 
-•	Created a client-server application for inter college C/C++ quiz – this project supported 100+ concurrent users after deployment (Python, SQLite)
-•	Worked on the backend of an automated online contest judge for inter college C/C++ hackathon – this project supported 50+ concurrent users after deployment (Python, Bash)
-SKILLS:	
-•	Programming Languages: Python, Java, Bash, C++, C, SQL, Go
-•	Frameworks: Spring(Java), Hibernate(Java), PyQT (Python), Flask (Python), Django(Python)
-•	Versioning Systems: Git, Mercurial, SVN
-•	Miscellaneous: Docker, AWS (VM deployment, ELB, RDS, EFS), Hadoop, Kafka, Apache-Drill
+<h1> EDUCATION: </h1>	
+</h2>University of Virginia, Master’s in Computer Science (AUG 2019 to DEC 2020) </h2>  
+<ul>
+<li> Courses Taken – Algorithms, Machine Learning, Cloud Computing, Data Mining </li>
+<li> Teaching Assistant for Cloud Computing undergrad course (UVa CS 4740) </li>
+</ul>
+
+<h2>University of Pune, Bachelor’s in Engineering - Information Technology (AUG 2011 to JUL 2015) </h2>
+<ul>
+<li>	Aggregate percentage of 71.4 (3.6/4 GPA approximately) </li>
+<li>	Created a client-server application for inter college C/C++ quiz – this project supported 100+ concurrent users after deployment (Python, SQLite) </li>
+<li>	Worked on the backend of an automated online contest judge for inter college C/C++ hackathon – this project supported 50+ concurrent users after deployment (Python, Bash)</li>
+</ul>
+
+<h2>SKILLS: </h2>
+<ul>
+<li>	Programming Languages: Python, Java, Bash, C++, C, SQL, Go
+<li>	Frameworks: Spring(Java), Hibernate(Java), PyQT (Python), Flask (Python), Django(Python)
+<li>	Versioning Systems: Git, Mercurial, SVN
+<li>	Miscellaneous: Docker, AWS (VM deployment, ELB, RDS, EFS), Hadoop, Kafka, Apache-Drill
+</ul>
                 
 WORK EXPERIENCE:	
 Software Engineer, Arista Networks, Pune, India: (Arista acquired Mojo)  	                 AUG 2018 to AUG 2019
@@ -34,5 +41,3 @@ Implementation Engineer, eQ Technologic, Pune, India:	               JUL 2015 to
                
 Software Engineer Intern, BMC Software, Pune, India:	               JUL 2014 to MAY 2015
 •	Incident Management System using NoSQL database – This project was done to assess if a NoSQL database is feasible for the traditionally RDBMS based ITSM system BMC Remedy (MongoDB, Java, Java Spring)
-</pre>
-
